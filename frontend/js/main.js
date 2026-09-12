@@ -1187,7 +1187,7 @@ getStartedBtn.classList.add("show");
 
 getStartedBtn.addEventListener("click", () => {
 
-    window.location.href = "/app/";
+    window.location.href = "https://extremely-ranch-onion-correction.trycloudflare.com/";
 
 });
 // =====================================================
